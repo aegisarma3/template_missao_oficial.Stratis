@@ -12,9 +12,8 @@ Todos os mods abaixo são necessários para a campanha.
 - [@acre2 - 2.1.0.811](http://www.armaholic.com/page.php?id=19324)
 - [@aegis - 0.7](https://github.com/aegisarma3/ASIN/releases/download/v0.7/aegis.zip)
 - [@aegisremote - 0.1](https://github.com/aegisarma3/aegisremote/releases/download/v0.1/aegisremote.zip)
+- @aegis_agressors
 - [@cup_terrains - 1.0.1 Complete](http://cup-arma3.org/downloads/cup-terrains/)
-- [@caf_ag - 1.5](http://www.armaholic.com/page.php?id=24441)
-- [@caf_ag_audiopatch](http://www.armaholic.com/page.php?id=26326)
 - [@cba_a3 - 2.3.1.160220](http://www.armaholic.com/page.php?id=18767)
 - [@DAC - 3.1b](http://www.armaholic.com/page.php?id=25550)
 - [@em - 0.63 beta](http://www.armaholic.com/page.php?id=27224)
