@@ -1,6 +1,5 @@
 
-# Jigsaw - Parte 1
-Quinto episódio da campanha em Esseker.
+# Template para missões oficiais
 
 # ![logo](images/SITREP_README.jpg)
 
